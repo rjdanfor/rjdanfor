@@ -3,9 +3,11 @@
 <!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rjdanfor&show_icons=true&theme=transparent" alt="rjdanfor's github stats" /> -->
 |![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rjdanfor&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rjdanfor&theme=dracula)|![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rjdanfor&theme=dracula)|
 |-----|------|------|
-
- 
 Above stats generated with: [`tipsy/profile-summary-for-github`](https://github.com/tipsy/profile-summary-for-github)
+
+# My Main Skills
+[![My Skills](https://skillicons.dev/icons?i=js,github,typescript,html,css)](https://skillicons.dev)
+</br>
 <!--
 **rjdanfor/rjdanfor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
